@@ -11,7 +11,7 @@
 
 :brain: Currently I am learning typescript & express.js
 
-:cactus: I have pet cactus named Hari-chan 
+:cactus: I have pet cactus named Hari-kun
 
 :blue_heart: I love japanese culture & language :blue_heart:
 
