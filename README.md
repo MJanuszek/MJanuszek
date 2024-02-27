@@ -14,8 +14,6 @@ _____________
 
 :fountain_pen: Previously I was working as freelance content writer
 
-:cactus: I have pet cactus and Cat, that - if in the mood - response to Sagara :cat:
-
 :blue_heart: I love japanese culture & language :blue_heart:
 
 
