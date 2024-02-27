@@ -1,16 +1,19 @@
 
 ✨✨✨
 ### Hi there 👋 I am Monika :)
------
+
 #### Junior Frontend Developer
 
 
-:fountain_pen: Previously content writer
+:fountain_pen: Previously I was working as content writer
 
+:fire: My current goal is to gain more experience in programming
+
+:brain: Currently I am learning typescript & express.js
+
+:cactus: I have pet cactus named Hari-chan 
 
 :blue_heart: I love japanese culture & language :blue_heart:
-
-:world_map: Living in Poland
 
 :envelope_with_arrow: How to reach me: monika.januszek.mail@gmail.com
 
