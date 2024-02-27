@@ -45,7 +45,6 @@ ______________
 
 ### Check out my work below :)
 
- ![Monika's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjanuszek&show_icons=true&theme=radical)
 
 
 
