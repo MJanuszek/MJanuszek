@@ -1,9 +1,9 @@
 
 ✨✨✨
 ### Hi there 👋 I am Monika :)
+-----
+#### Junior Frontend Developer
 
-
-:alarm_clock: Programming since 2022
 
 :fountain_pen: Previously content writer
 
