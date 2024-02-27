@@ -1,15 +1,21 @@
 
+✨✨✨
+### Hi there 👋 I am Monika :)
 
 
-### Hi there 👋 I am Monika :)     ![](https://komarev.com/ghpvc/?username=mjanuszek&color=green)
-### About me ✨✨✨
+:alarm_clock: Programming since 2022
+
+:fountain_pen: Previously content writer
 
 
-⚡ Fun fact: I love japanese culture :)
+:blue_heart: I love japanese culture & language :blue_heart:
 
+:world_map: Living in Poland
 
- :envelope_with_arrow: How to reach me: monika.januszek.mail@gmail.com
- 
+:envelope_with_arrow: How to reach me: monika.januszek.mail@gmail.com
+
+ --------
+ ![](https://komarev.com/ghpvc/?username=mjanuszek&color=green)
 ________________________
 
 ### Languages-Frameworks-Tools
@@ -18,13 +24,10 @@ ________________________
 -------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjanuszek&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
 ---------------
-
-![Monika's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjanuszek&show_icons=true&theme=radical)
-
-
--------------
-
+<!-- ![Monika's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjanuszek&show_icons=true&theme=radical) --!>
 
 
 
