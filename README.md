@@ -8,8 +8,6 @@ _____________
 
 :fire: My current goal is to gain more experience in programming
 
-:heart_on_fire: Trying to code every free moment I have
-
 :brain: Coders Lab JavaScript Developer course graduate 2023 :sparkles:
 
 :fountain_pen: Previously I was working as freelance content writer
